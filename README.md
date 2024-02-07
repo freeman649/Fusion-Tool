@@ -48,8 +48,6 @@
 - [Getting Started](#toolbox-getting-started)
   * [Prerequisites](#bangbang-prerequisites)
   * [Installation](#gear-installation)
-- [Usage](#eyes-usage)
-- [Roadmap](#compass-roadmap)
 - [Contributing](#wave-contributing)
 - [FAQ](#grey_question-faq)
 - [License](#warning-license)
@@ -153,13 +151,6 @@ Install my-project with npm
   dotnet build -o yourname
 ```
 
-<!-- Roadmap -->
-## :compass: Roadmap
-
-* [x] Todo 1
-* [ ] Todo 2
-
-
 <!-- Contributing -->
 ## :wave: Contributing
 
@@ -176,13 +167,13 @@ See `contributing.md` for ways to get started.
 <!-- FAQ -->
 ## :grey_question: FAQ
 
-- Question 1
+- Why use this software
 
-  + Answer 1
+  + because this software has unique functions and I am all alone to code it
 
-- Question 2
+- Why did I code this software?
 
-  + Answer 2
+  + because I like everything that is malicious software development and that kind of thing
 
 
 <!-- License -->
