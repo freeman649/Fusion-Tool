@@ -48,13 +48,9 @@
 - [Getting Started](#toolbox-getting-started)
   * [Prerequisites](#bangbang-prerequisites)
   * [Installation](#gear-installation)
-  * [Running Tests](#test_tube-running-tests)
-  * [Run Locally](#running-run-locally)
-  * [Deployment](#triangular_flag_on_post-deployment)
 - [Usage](#eyes-usage)
 - [Roadmap](#compass-roadmap)
 - [Contributing](#wave-contributing)
-  * [Code of Conduct](#scroll-code-of-conduct)
 - [FAQ](#grey_question-faq)
 - [License](#warning-license)
 - [Contact](#handshake-contact)
@@ -167,8 +163,8 @@ Install my-project with npm
 <!-- Contributing -->
 ## :wave: Contributing
 
-<a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" />
+<a href="https://github.com/freeman649/Fusion-Tool/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=freeman649/Fusion-Tool" />
 </a>
 
 
@@ -176,11 +172,6 @@ Contributions are always welcome!
 
 See `contributing.md` for ways to get started.
 
-
-<!-- Code of Conduct -->
-### :scroll: Code of Conduct
-
-Please read the [Code of Conduct](https://github.com/Louis3797/awesome-readme-template/blob/master/CODE_OF_CONDUCT.md)
 
 <!-- FAQ -->
 ## :grey_question: FAQ
@@ -213,7 +204,4 @@ Project Link: [https://github.com/Louis3797/awesome-readme-template](https://git
 
 Use this section to mention useful resources and libraries that you have used in your projects.
 
- - [Shields.io](https://shields.io/)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
- - [Readme Template](https://github.com/othneildrew/Best-README-Template)
+ - [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
