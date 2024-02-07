@@ -6,22 +6,22 @@
 <!-- Badges -->
 <p>
   <a href="https://github.com/freeman649/Fusion-Tool/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
+    <img src="https://img.shields.io/github/contributors/freeman649/Fusion-Tool" alt="contributors" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/freeman649/Fusion-Tool" alt="last update" />
   </a>
   <a href="https://github.com/freeman649/Fusion-Tool/network/members">
-    <img src="https://img.shields.io/github/forks/Louis3797/awesome-readme-template" alt="forks" />
+    <img src="https://img.shields.io/github/forks/freeman649/Fusion-Tool" alt="forks" />
   </a>
   <a href="https://github.com/freeman649/Fusion-Tool/stargazers">
-    <img src="https://img.shields.io/github/stars/Louis3797/awesome-readme-template" alt="stars" />
+    <img src="https://img.shields.io/github/stars/freeman649/Fusion-Tool" alt="stars" />
   </a>
   <a href="https://github.com/freeman649/Fusion-Tool/issues">
-    <img src="https://img.shields.io/github/issues/Louis3797/awesome-readme-template" alt="open issues" />
+    <img src="https://img.shields.io/github/issues/freeman649/Fusion-Tool" alt="open issues" />
   </a>
   <a href="https://github.com/freeman649/Fusion-Tool/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="license" />
+    <img src="https://img.shields.io/github/license/freeman649/Fusion-Tool.svg" alt="license" />
   </a>
 </p>
    
@@ -124,29 +124,17 @@
 <!-- Features -->
 ### :dart: Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Windows Auto Activator
+- Reverse Shell (Soon)
+- Discord Tool (Soon)
+- FUD Stealer (Soon)
+- FUD File Stealer Builder
+- Malware Builder (Soon)
+- Source Code Dumper (Soon)
+- UAC Escalation (Soon)
+- FUD Crypter (Soon)
+- Cracked Program Downloader
 
-<!-- Color Reference -->
-### :art: Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Primary Color | ![#222831](https://via.placeholder.com/10/222831?text=+) #222831 |
-| Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
-| Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
-| Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
-
-
-<!-- Env Variables -->
-### :key: Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
-
-`API_KEY`
-
-`ANOTHER_API_KEY`
 
 <!-- Getting Started -->
 ## 	:toolbox: Getting Started
@@ -156,8 +144,8 @@ To run this project, you will need to add the following environment variables to
 
 This project uses Yarn as package manager
 
-```bash
- npm install --global yarn
+```Requirement
+ .NET 8.0
 ```
 
 <!-- Installation -->
@@ -165,70 +153,8 @@ This project uses Yarn as package manager
 
 Install my-project with npm
 
-```bash
-  yarn install my-project
-  cd my-project
-```
-   
-<!-- Running Tests -->
-### :test_tube: Running Tests
-
-To run tests, run the following command
-
-```bash
-  yarn test test
-```
-
-<!-- Run Locally -->
-### :running: Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/Louis3797/awesome-readme-template.git
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  yarn install
-```
-
-Start the server
-
-```bash
-  yarn start
-```
-
-
-<!-- Deployment -->
-### :triangular_flag_on_post: Deployment
-
-To deploy this project run
-
-```bash
-  yarn deploy
-```
-
-
-<!-- Usage -->
-## :eyes: Usage
-
-Use this space to tell a little more about your project and how it can be used. Show additional screenshots, code samples, demos or link to other resources.
-
-
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
+```Compile
+  dotnet build -o yourname
 ```
 
 <!-- Roadmap -->
