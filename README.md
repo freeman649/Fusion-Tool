@@ -63,7 +63,7 @@
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="https://imgur.com/501fdjI" alt="screenshot" />
+  <img src="https://placehold.co/600x400?text=https://imgur.com/501fdjI" alt="screenshot" />
 </div>
 
 <!-- Features -->
