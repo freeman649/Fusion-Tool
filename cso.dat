@@ -1,0 +1,19 @@
+V1
+2:DisplayMenu,d
+2:choice,i
+2:case "1":,o
+2:case "2":,x
+2:case "3":,z
+2:case "4":,s
+2:case "5":,xI
+2:case "6":,u
+2:case "7":,H
+2:case "8":,F
+2:case "9":,J
+2:s1383156699,M
+2:t1383156699,w
+1:1,Fusion Tool,,M_,w_
+2:case "10":,X
+2:case "sad day":,I
+2:case "11":,HL
+2:default,S
