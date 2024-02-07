@@ -5,34 +5,34 @@
   
 <!-- Badges -->
 <p>
-  <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
+  <a href="https://github.com/freeman649/Fusion-Tool/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
   </a>
   <a href="">
     <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/network/members">
+  <a href="https://github.com/freeman649/Fusion-Tool/network/members">
     <img src="https://img.shields.io/github/forks/Louis3797/awesome-readme-template" alt="forks" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/stargazers">
+  <a href="https://github.com/freeman649/Fusion-Tool/stargazers">
     <img src="https://img.shields.io/github/stars/Louis3797/awesome-readme-template" alt="stars" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/issues/">
+  <a href="https://github.com/freeman649/Fusion-Tool/issues">
     <img src="https://img.shields.io/github/issues/Louis3797/awesome-readme-template" alt="open issues" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/blob/master/LICENSE">
+  <a href="https://github.com/freeman649/Fusion-Tool/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="license" />
   </a>
 </p>
    
 <h4>
-    <a href="https://github.com/Louis3797/awesome-readme-template/">View Demo</a>
+    <a href="https://github.com/freeman649/Fusion-Tool">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template">Documentation</a>
+    <a href="https://github.com/freeman649/Fusion-Tool">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Report Bug</a>
+    <a href="https://github.com/freeman649/Fusion-Tool/issues">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Request Feature</a>
+    <a href="https://github.com/freeman649/Fusion-Tool/issues">Request Feature</a>
   </h4>
 </div>
 
@@ -45,8 +45,6 @@
   * [Screenshots](#camera-screenshots)
   * [Tech Stack](#space_invader-tech-stack)
   * [Features](#dart-features)
-  * [Color Reference](#art-color-reference)
-  * [Environment Variables](#key-environment-variables)
 - [Getting Started](#toolbox-getting-started)
   * [Prerequisites](#bangbang-prerequisites)
   * [Installation](#gear-installation)
