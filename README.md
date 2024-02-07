@@ -63,7 +63,7 @@
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="https://placehold.co/600x400?text=![Capture d’écran 2024-02-07 135719](https://github.com/freeman649/Fusion-Tool/assets/108530916/9bd232b3-a955-42d7-a451-9bf26f6b55ac)
+  <img src="https://placehold.co/600x400?text=https://github.com/freeman649/Fusion-Tool/assets/108530916/9bd232b3-a955-42d7-a451-9bf26f6b55ac)
 " alt="screenshot" />
 </div>
 
