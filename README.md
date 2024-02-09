@@ -87,7 +87,7 @@
 <!-- Prerequisites -->
 ### :bangbang: Prerequisites
 
-This project uses Yarn as package manager
+This project uses Dotnet as package manager
 
 ```Requirement
  .NET 8.0
