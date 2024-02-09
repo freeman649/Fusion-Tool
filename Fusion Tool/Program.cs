@@ -470,7 +470,7 @@ class Program
                         }
                         else if (response.StatusCode == System.Net.HttpStatusCode.TooManyRequests)
                         {
-                            // Handle rate limiting
+                            
                         }
                         else if (responseBody.Contains("\"code\": 50001"))
                         {
@@ -480,7 +480,7 @@ class Program
                         {
                             Console.WriteLine($"Error -> {message.Substring(0, Math.Min(20, message.Length))}... -> {token.Substring(0, Math.Min(50, token.Length))} ({response.StatusCode}) (CloudFlare Blocked)");
                         }
-                        // Handle other cases similarly
+                        
                         else
                         {
                             Console.WriteLine($"Error -> {message.Substring(0, Math.Min(20, message.Length))}... -> {token.Substring(0, Math.Min(50, token.Length))} ({response.StatusCode}) ({responseBody})");
@@ -495,7 +495,6 @@ class Program
         }
         static string RandStr(int length)
         {
-            // Implement your random string generation logic here
             return "";
         }
 
