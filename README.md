@@ -71,12 +71,12 @@
 
 - Windows Auto Activator
 - Reverse Shell (Soon)
-- Discord Tool (Soon)
+- Discord Tool
 - FUD Stealer (Soon)
 - FUD File Stealer Builder
 - Malware Builder (Soon)
 - Source Code Dumper (Soon)
-- UAC Escalation (Soon)
+- UAC Escalation
 - FUD Crypter (Soon)
 - Cracked Program Downloader
 
@@ -96,7 +96,7 @@ This project uses Yarn as package manager
 <!-- Installation -->
 ### :gear: Installation
 
-Install my-project with npm
+Install my-project with Dotnet
 
 ```Compile
   dotnet build -o yourname
