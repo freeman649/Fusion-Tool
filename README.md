@@ -63,7 +63,7 @@
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="https://github.com/freeman649/Fusion-Tool/assets/108530916/9bd232b3-a955-42d7-a451-9bf26f6b55ac" alt="screenshot" />
+  <img src="https://github.com/freeman649/Fusion-Tool/assets/108530916/cab17d50-70dc-4440-bf92-ff68638dc656" alt="screenshot" />
 </div>
 
 <!-- Features -->
